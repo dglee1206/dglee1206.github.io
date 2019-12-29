@@ -4,17 +4,22 @@
 
     <sitemap>
         <loc>http://blog.28cc.space/post-sitemap.xml</loc>
-        <lastmod>2019-12-29T08:40:11.335Z</lastmod>
+        <lastmod>2019-12-29T14:59:03.444Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://blog.28cc.space/page-sitemap.xml</loc>
-        <lastmod>2019-12-29T08:22:50.906Z</lastmod>
+        <lastmod>2019-12-29T09:18:30.540Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://blog.28cc.space/category-sitemap.xml</loc>
+        <lastmod>2019-12-29T09:18:50.612Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://blog.28cc.space/tag-sitemap.xml</loc>
-        <lastmod>2019-12-29T08:38:21.963Z</lastmod>
+        <lastmod>2019-12-29T14:59:03.444Z</lastmod>
     </sitemap>
 
 </sitemapindex>

@@ -8,24 +8,32 @@
     </url>
 
     <url>
-        <loc>http://blog.28cc.space/2019/12/26/hello-world/</loc>
-        <lastmod>2019-12-29T08:40:11.335Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://blog.28cc.space/2019/12/29/191229/</loc>
-        <lastmod>2019-12-29T08:38:21.963Z</lastmod>
+        <lastmod>2019-12-29T14:59:03.444Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://blog.28cc.space/2019/12/29/modern-java-in-action/</loc>
-        <lastmod>2019-12-29T08:22:22.792Z</lastmod>
+        <loc>http://blog.28cc.space/2019/12/26/hello-world/</loc>
+        <lastmod>2019-12-29T13:54:40.101Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.28cc.space/2019/12/29/Test1/nick/</loc>
+        <lastmod>2019-12-29T09:32:47.760Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.28cc.space/2019/12/28/spring-intro/</loc>
+        <lastmod>2019-12-29T09:18:50.612Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -42,14 +50,6 @@
     <url>
         <loc>http://blog.28cc.space/2019/12/28/191228/</loc>
         <lastmod>2019-12-28T14:05:45.742Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://blog.28cc.space/2019/12/28/spring-intro/</loc>
-        <lastmod>2019-12-28T04:51:17.032Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
