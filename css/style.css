@@ -1542,6 +1542,7 @@ pre {
   font-size: 13px;
   font-family: "Menlo", "Meslo LG", monospace;
   line-height: 22px;
+  white-space: pre-wrap;
   -webkit-border-radius: 4px;
 }
 pre code {
