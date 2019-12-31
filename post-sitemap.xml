@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>http://blog.28cc.space/2019/12/31/191231/</loc>
+        <lastmod>2019-12-31T15:46:10.873Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://blog.28cc.space/2019/12/30/191230/</loc>
         <lastmod>2019-12-30T16:29:59.153Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -26,6 +34,14 @@
     <url>
         <loc>http://blog.28cc.space/2019/12/26/hello-world/</loc>
         <lastmod>2019-12-29T13:54:40.101Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.28cc.space/2019/12/29/Test1/nick/</loc>
+        <lastmod>2019-12-29T09:32:47.760Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -56,7 +72,7 @@
     </url>
 
     <url>
-        <loc>http://blog.28cc.space/2019/12/27/191227-java-%EB%AC%B8%EB%B2%95/</loc>
+        <loc>http://blog.28cc.space/2019/12/27/191227-%EA%B3%B5%EB%B6%80/</loc>
         <lastmod>2019-12-27T17:40:59.703Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -64,7 +80,7 @@
     </url>
 
     <url>
-        <loc>http://blog.28cc.space/2019/12/27/191227-%EA%B3%B5%EB%B6%80/</loc>
+        <loc>http://blog.28cc.space/2019/12/27/191227-java-%EB%AC%B8%EB%B2%95/</loc>
         <lastmod>2019-12-27T17:40:59.703Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
